@@ -3,8 +3,11 @@ Game Design Document
 **1. Overview**
 
 Game title:
+
 Theme:
+
 Core mechanics:
+
 Target audience:
 
 **2. Mechanics**
