@@ -1,6 +1,6 @@
-    ***Game Design Document***
+***Game Design Document***
 
-    **1. Overview**
+**1. Overview**
 
 
 Game title:
