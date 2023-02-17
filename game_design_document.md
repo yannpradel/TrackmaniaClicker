@@ -4,21 +4,25 @@
 
 Game title: Trackmania Clicker
 
-Theme: Racing
+Theme: Clicker
 
-Core mechanics: Clicking to accelerate car, resource collection, upgrading car and driver
+Core mechanics: Clicking to accelerate car, resource collection, upgrading car, skins and driver
 
-Target audience: Casual gamers, fans of clicker games and racing games
+Target audience: Casual gamers, fans of clicker games and racing games, tryharders
 
 								Mechanics
 
-Clicking mechanics: Click on the car to make it go faster
+Clicking mechanics: Click on the car to move it forward
 
-Resource collection: Collect coppers by completing tracks and defeating bosses
+Resource collection: Collect coppers by completing tracks and defeating bosses (multilap tracks every 10x map)
 
-Upgrades: Upgrade the car and driver to increase speed and performance
+Upgrades: Upgrade the car, new skins,  and driver to increase speed and performance
 
-Progression system: Unlock new tracks and upgrades by collecting coppers and defeating bosses
+Power-ups : Players can collect stuffs on the track (rarely) it will be transfer into coppers
+
+Progression system: Unlock new tracks and defeating tracks
+
+Skills : Player will be able to activate bonuses every hour : Nitro boost, Magnet, Reactor Boost, Double Rewards
 
 
 Infinite tracks: Tracks become progressively harder and more challenging
@@ -29,7 +33,7 @@ Boss levels: Every 10 tracks, a boss level is encountered that requires multiple
 
 Difficulty and complexity progression: Tracks become progressively harder and more challenging as the player progresses
 
-Unlocking new tracks: New tracks are unlocked as the player collects more coppers
+Unlocking new tracks: New tracks are unlocked as the player beats previous maps
 
 Prestige points: Players can restart the game with new and more powerful upgrades after collecting a certain amount of coppers
 
@@ -45,7 +49,6 @@ Ways to spend coppers: Upgrading car and driver
 
 Sharing high scores: Players can share their high scores on social media
 
-Real-time races: Players can race against each other in real time
 
 								Art Style and Audio
 
